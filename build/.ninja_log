@@ -1,0 +1,5 @@
+# ninja log v5
+7	701	7221201895772540	CMakeFiles/Train.dir/src/wagon.cpp.obj	7e2d0011192aaf15
+4	980	7221201898559151	CMakeFiles/Train.dir/src/train.cpp.obj	b28efd33039adb16
+2	1047	7221201899225644	CMakeFiles/Train.dir/main.cpp.obj	77cd950ac149dcac
+1047	1147	7221201900190035	Train.exe	14045ec9e48564ba
